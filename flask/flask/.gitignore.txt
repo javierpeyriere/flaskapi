@@ -1,0 +1,4 @@
+flask_config.json
+app2_games.ipynb
+bechdel.sql
+bechdel_er_diagram.png
